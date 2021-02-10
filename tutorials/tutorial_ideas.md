@@ -7,4 +7,4 @@ Some tutorial ideas to help us branch out into new areas where no tutorial has g
 [ ] AppleTalk by Tutorials: Your road to the information superhighway
 [ ] Blockchains with BASIC
 [_] Blockchains with Python
-[ ] Mastering Podman
+[_] Mastering Podman
